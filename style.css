@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: system-ui;
+}
+body{
+    background-color: aliceblue;
+}
+
+.get {
+    width: 130px;
+    background-color: hwb(213 16% 27%);
+    padding: 6px 48px;
+    margin-left: 50px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    border-radius: 6px;
+}
+
+.one {
+    margin-left: 20px;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+    color: hwb(213 16% 27%) ;
+}
+
+.home {
+    margin-left: 60px;
+    font-weight: 600;
+    color: hwb(213 16% 27%);
+
+}
+
+.about {
+    margin-left: 20px;
+    color: rgb(5, 5, 5);
+    font-weight: 600;
+}
+
+.center-box{
+    margin-top: 70px;
+}
+
+.page {
+    font-size: 50px;
+    color: hwb(213 12% 39%);
+    font-weight: 600;
+    text-align: center;
+}
+.we{
+    font-size: 19px;
+    text-align: center;
+    font-weight: 600;
+}
+.get2 {
+    width: 160px;
+    background-color: hwb(213 16% 27%);
+    padding: 9px 48px;
+    margin-left: 50px;
+    color: white;
+    font-weight: 600;
+    border-radius: 6px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.first{
+    margin-left: 45px;
+    margin-top: 60px;
+    background-color: white;
+    width:250px ;
+    box-shadow: 2px 3px 8px white;
+    float: left;
+    margin-bottom: 30px;
+}
+.icon{
+    color: hwb(213 16% 27%) ;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+h5{
+    color: hwb(213 11% 42%);
+    margin-left: 10px;
+}
+.text{
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
